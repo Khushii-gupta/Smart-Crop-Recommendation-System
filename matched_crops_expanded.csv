@@ -1,0 +1,6 @@
+N,P,K,temperature,humidity,ph,rainfall,label,label_clean,Crop,Crop_Year,Season,State,Area,Production,Annual_Rainfall,Fertilizer,Pesticide,Yield,Crop_clean,_merge
+3.0,72.0,24.0,36.51268371,57.92887167,6.03160778,122.6539694,pigeonpeas,arhar/tur,Arhar/Tur,1997.0,Kharif     ,Assam,6637.0,4685.0,2051.4,631643.29,2057.47,0.710434783,arhar/tur,both
+3.0,72.0,24.0,36.51268371,57.92887167,6.03160778,122.6539694,pigeonpeas,arhar/tur,Arhar/Tur,1997.0,Kharif     ,Karnataka,421810.0,98473.0,1266.7,40143657.7,130761.1,0.268235294,arhar/tur,both
+3.0,72.0,24.0,36.51268371,57.92887167,6.03160778,122.6539694,pigeonpeas,arhar/tur,Arhar/Tur,1997.0,Kharif     ,Meghalaya,865.0,683.0,3818.2,82322.05,268.15,0.806666667,arhar/tur,both
+3.0,72.0,24.0,36.51268371,57.92887167,6.03160778,122.6539694,pigeonpeas,arhar/tur,Arhar/Tur,1997.0,Whole Year ,West Bengal,3630.0,2181.0,1852.9,345467.1,1125.3,0.777692308,arhar/tur,both
+3.0,72.0,24.0,36.51268371,57.92887167,6.03160778,122.6539694,pigeonpeas,arhar/tur,Arhar/Tur,1998.0,Kharif     ,Assam,7657.0,5389.0,2354.4,756511.6,2220.53,0.709130435,arhar/tur,both
